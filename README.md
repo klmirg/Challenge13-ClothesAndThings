@@ -26,6 +26,7 @@ This is the back end to a retail store where you can add, delete, or update prod
 
 It is open to the public, so feel free to use it if you'd like.
 Here is a tutorial video on how to use it:
+https://watch.screencastify.com/v/e7BsvqOpdFmVWuZaGmtp
 
  ## Languages
  * JavaScript
